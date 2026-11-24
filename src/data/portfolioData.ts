@@ -77,9 +77,9 @@ export const PROFILE_CONFIG: ProfileConfig = {
     {
       id: 'github',
       label: 'GitHub',
-      // Replace with your GitHub profile URL, e.g. 'https://github.com/yourusername'
-      url: '',
-      placeholderNote: 'GitHub URL placeholder — set in src/data/portfolioData.ts',
+      // Public GitHub profile
+      url: 'https://github.com/polash269',
+      placeholderNote: 'GitHub profile',
     },
     {
       id: 'linkedin',
