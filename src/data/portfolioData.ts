@@ -85,8 +85,8 @@ export const PROFILE_CONFIG: ProfileConfig = {
       id: 'linkedin',
       label: 'LinkedIn',
       // Replace with your LinkedIn profile URL, e.g. 'https://linkedin.com/in/yourusername'
-      url: '',
-      placeholderNote: 'LinkedIn URL placeholder — set in src/data/portfolioData.ts',
+      url: 'https://www.linkedin.com/in/shakhawat-hossain-007833451/',
+      placeholderNote: 'LinkedIn profile',
     },
   ],
 };
